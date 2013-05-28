@@ -2,13 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8e2bd0d9-530f-4512-840e-e1697bf349fa" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/README.rdoc" afterPath="$PROJECT_DIR$/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sample_app.iws" afterPath="$PROJECT_DIR$/sample_app.iws" />
     </list>
     <ignored path="sample_app.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/Gemfile" changelist="8e2bd0d9-530f-4512-840e-e1697bf349fa" time="1369726770655" ignored="false" />
     <file path="/Dummy.txt" changelist="8e2bd0d9-530f-4512-840e-e1697bf349fa" time="1369727036841" ignored="false" />
     <file path="/.gitignore" changelist="8e2bd0d9-530f-4512-840e-e1697bf349fa" time="1369727053095" ignored="false" />
+    <file path="/README.md" changelist="8e2bd0d9-530f-4512-840e-e1697bf349fa" time="1369727156890" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -78,10 +80,19 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name=".gitignore" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name=".gitignore" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="21" column="0" selection-start="484" selection-end="484" vertical-scroll-proportion="0.26877132">
+            <state line="21" column="0" selection-start="484" selection-end="484" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="README.md" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="3" column="0" selection-start="184" selection-end="184" vertical-scroll-proportion="0.038826574">
               <folding />
             </state>
           </provider>
@@ -102,6 +113,7 @@
       <list>
         <option value="$PROJECT_DIR$/Gemfile" />
         <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -547,7 +559,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="21" column="0" selection-start="484" selection-end="484" vertical-scroll-proportion="0.26877132">
+        <state line="21" column="0" selection-start="484" selection-end="484" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3" column="0" selection-start="184" selection-end="184" vertical-scroll-proportion="0.038826574">
           <folding />
         </state>
       </provider>
