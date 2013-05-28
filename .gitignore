@@ -14,3 +14,9 @@
 # Ignore all logfiles and tempfiles.
 /log/*.log
 /tmp
+
+*.iml
+*.ipr
+*.iws
+.DS_Store
+
